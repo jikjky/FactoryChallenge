@@ -2,6 +2,8 @@
 
 실행파일 : [Download](https://github.com/jikjky/FactoryChallenge/raw/master/Release.zip)
 
+참조 영상 : https://youtu.be/_1jbOGduh4Q
+
 간단하게 만들어 본거라서 버그가 있거나 정상적으로 동작하지 않을수도 있습니다.
 
 그리고 사용하다가의 불이익은 책임지지 않습니다.
