@@ -3,7 +3,8 @@
 실행파일 : [Download](https://github.com/jikjky/FactoryChallenge/raw/master/Release.zip)
 
 간단하게 만들어 본거라서 버그가 있거나 정상적으로 동작하지 않을수도 있습니다.
-사용하다가의 불이익은 책임지지 않습니다.
+
+그리고 사용하다가의 불이익은 책임지지 않습니다.
 
 
 셀레니움 크롬드라이버 사용하여 동작합니다.
